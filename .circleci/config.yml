@@ -9,6 +9,5 @@ jobs:
       - run:
           name: sucess
           command: |
-            cat hoge
             echo hoge
           
